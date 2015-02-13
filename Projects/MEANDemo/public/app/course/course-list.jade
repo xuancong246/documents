@@ -15,6 +15,6 @@
       tr(ng-repeat="course in vm.model.courses | orderBy:vm.model.sortOrder |filter:searchText")
         td
           a(href="/courses/{{course._id}}") {{ course.title }}
-        td {{ course.published | date:"dd-MMM-yyyy" }}
-        td
-          input(type="checkbox", ng-disabled="true", ng-checked="course.featured")
+        td {{ course.published | standardDate }}
+        td {{ course.featured | stickCross }}
+          
