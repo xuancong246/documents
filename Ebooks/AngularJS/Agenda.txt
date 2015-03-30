@@ -1,0 +1,51 @@
+Topic: Angularjs Best Practice (intermediate)
+Agenda:
+   Day 1: (1.5 hour)
+	Organizing your Code (20 minutes. 2-angular-best-practices-m2-slides)
+		- Demo: CongPham will prepare
+		- Items: 
+			Introduction
+			File Organization
+			Understanding Modules
+			Organizing Modules
+			Naming Overview
+			Namespacing
+			Naming Objects
+	Directives (50 minutes. 4-angular-best-practices-m4-exercise-files)
+		- Demo: Pluralsight
+		- Items:
+			Directives - Controllers vs Link
+			Directives - Requiring Controllers
+			Directive Interfaces
+			Avoiding FOUC in Views
+			Thinking Declaratively (Summary)
+			Something about isolated scope in Directive (5-angular-best-practices-m5-exercise-files : "&,@,=")
+	Exercise 1 (20 mins. How to build, Explain about requirement. Chinh Vo support)
+   Day 2: (1.5 hour)
+	Discuss about exercise 1 (15 mins)
+    Dealing with Scope (30 mins. 5-angular-best-practices-m5-exercise-files)
+		- Demo: Pluralsight
+		- Items:
+			Scope Overview
+			Creating Scopes
+			Sharing Scope
+			Inheriting Scope
+			Isolating Scope
+	Communicating Between Components (30 mins. Focus on Services. D:\Training\angular-best-practices\6-angular-best-practices-m6-exercise-files)
+		- Demo: Pluralsight
+		- Items:
+			Communicating with Inherited Scopes
+			Communicating with Events
+			Communicating with Services
+	Dealing with Models (5 mins. Just Overview)
+	Exercise 2 (10 mins. Explain about requirement. Nhut Dinh support)
+   Day 3: (1.5 hour)	
+    Review (base on Exercise 1&2 results)
+    Discuss about Exercise 1&2
+    QnA ...
+
+Resource:
+- \\data\Training\Video\Other\Angular Best Practices (http://www.pluralsight.com/courses/angular-best-practices)
+- http://www.pluralsight.com/courses/angularjs-directive-fundamentals
+   
+Requisite for Trainees: Have basic knowledge about AngularJS
